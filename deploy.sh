@@ -13,4 +13,4 @@ cd backend
 npm i
 
 # Restart index.js using pm2
-/root/.nvm/versions/node/v18.20.4/bin/pm2 restart index.js
+/root/.nvm/versions/node/v18.20.2/bin/pm2 restart index.js
