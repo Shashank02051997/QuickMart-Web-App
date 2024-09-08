@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the directory where your app is stored
-cd apps/SM-SuperMart-Web-App
+cd apps/QuickMart-Web-App
 
 # Pull the latest changes from the repository
 git pull origin master
