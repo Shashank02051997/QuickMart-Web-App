@@ -4,12 +4,11 @@ const app = express();
 import dotenv from "dotenv";
 dotenv.config();
 
-import { fileURLToPath } from 'url';
-import { dirname, join } from 'path';
+import { fileURLToPath } from "url";
+import { dirname, join } from "path";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-
 
 import db from "./config/db_connect.js";
 import bodyParser from "body-parser";
@@ -42,7 +41,7 @@ app.use(
 );
 
 // To serve static files inside backend public folder
-app.use(express.static(join(__dirname, 'public')));
+app.use(express.static(join(__dirname, "public")));
 
 setupRoutes(app);
 
@@ -53,9 +52,7 @@ app.use((err, req, res, next) => {
 
 app.listen(PORT, () => {
   console.log(`Server is running at ${URL}`);
-  console.log(`Privacy Policy URL: ${URL}/privacy-policy.html`);
-  console.log(`Terms and Conditions URL: ${URL}/terms-and-conditions.html`);
-  console.log(`To check Admin panel, open http://${HOST}:3000`);
+  //console.log(`To check Admin panel, open http://${HOST}:3000`);
 });
 
 db.sequelize.sync();
