@@ -68,18 +68,18 @@ JWT_SECRET
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 1" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.04.05%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 2" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.04.19%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 3" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.04.28%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 4" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.04.38%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 5" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.04.49%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 6" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.05.02%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 7" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.06.23%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 8" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.06.40%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 9" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.07.08%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 10" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.07.21%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 11" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.07.39%E2%80%AFPM.png">
-<img width="1440" alt="Screenshot 12" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/Screenshots/Screenshot%202024-09-04%20at%208.07.52%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 1" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.04.05%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 2" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.04.19%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 3" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.04.28%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 4" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.04.38%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 5" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.04.49%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 6" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.05.02%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 7" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.06.23%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 8" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.06.40%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 9" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.07.08%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 10" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.07.21%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 11" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.07.39%E2%80%AFPM.png">
+<img width="1440" alt="Screenshot 12" src="https://github.com/Shashank02051997/QuickMart-Web-App/blob/master/screenshots/Screenshot%202024-09-04%20at%208.07.52%E2%80%AFPM.png">
 
 ## Technologies Used
 
